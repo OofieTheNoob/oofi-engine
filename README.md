@@ -2,6 +2,7 @@
 Just a WIP Engine that's inspired by Lore Engine.
 also this is a modified version of a mod of 
 ![](https://cdn.discordapp.com/attachments/922853801835257867/983128071244763176/psychnewlogo.png)
+Actually, I might remake this engine sometime.
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
